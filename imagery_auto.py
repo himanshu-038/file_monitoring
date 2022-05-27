@@ -66,9 +66,6 @@ def fileCount(tiles, files):
 
 
 
-#folder_path="C:\\Users\himanhu.gupta\Desktop\Imagery_Automation\CWRS_VHR1_DUNL_6.zip"
-#textfile_path="C:\\Users\himanhu.gupta\Desktop\Imagery_Automation\CWRS_VHR1_DUNL_meta_62_D0_latest45.txt"
-
 while True:
     folder_path=input("please enter full path of the zip folder:")                #get full path of the zip folder from user
     #if not folder_path.endswith(".zip"):
